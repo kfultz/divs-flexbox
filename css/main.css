@@ -113,6 +113,13 @@ body {
   font-weight: 700;
   display: flex;
   justify-content: space-between;
+  flex-flow: row wrap;
+}
+
+header, main, footer {
+	display: flex;
+	justify-content: center;
+	align-items: center;
 }
 
 .div-1, .div-2, .div-3 {
