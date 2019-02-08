@@ -120,6 +120,7 @@ header, main, footer {
 	display: flex;
 	justify-content: center;
 	align-items: center;
+	color: #884dff;
 }
 
 .div-1, .div-2, .div-3 {
